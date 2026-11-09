@@ -15,7 +15,7 @@ import {
 const exec = promisify(execFile)
 
 const TOKEN =
-  '8414626284:AAEZUOR1mXWICGcHA37bvI6zLYrdMRCwyIE'
+  '123:ABC'
 
 const react = async (conn, m, text) => {
   try {
