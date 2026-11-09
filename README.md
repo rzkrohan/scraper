@@ -128,6 +128,3 @@ Beberapa file mungkin membutuhkan dependency tambahan:
 - `youtubei.js` (untuk beberapa YouTube scraper)
 
 ---
-
-> Catatan: Sebagian besar scraper diambil dari channel WhatsApp komunitas scraper.  
-> Gunakan dengan bijak dan sesuai ketentuan platform masing-masing.
